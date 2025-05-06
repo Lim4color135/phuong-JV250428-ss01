@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width,initiaal-scale=1.0">
+        <title>Document</title>
+    </head>
+    <body>
+        <h1>day la trang web cua toi</h1>
+        <p>chao mung den voi trang web cua toi</p>
+        <img src="https://plus.unsplash.com"alt="hinh cay thong"width="300"height="200">
+        <p>tren day la hing anh ngau nhien duoc su dung tutrang web unsplash.
+            ban co the thay doi kich thuoc hinh anh bang cach chinh do chieu rong chieu cao
+            trong thuoc tinh "width"va"height"cua the.ban co the them mot mo ta hinh
+            anh bang thuoc tinh 'alt'
+        </p>
+    </body>
+</html>

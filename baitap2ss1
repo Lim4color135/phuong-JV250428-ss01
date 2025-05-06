@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <body>
+    <header>
+        <h1>gioi thieu ve ban than</h1>
+    </header>
+    <main>
+        <p>ten toi la le thi thu phuong sinh nam 2000</p>
+    </main>
+    </body>
+ </head>   
+</html>

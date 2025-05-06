@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width-device-width, initial-scale=1.0">
+        <title>Document</title>
+    </head>
+    <body>
+        <h1>Format text<mark>marked</mark></h1>
+
+        <p><em>please use only HTML without CSS</em></p>
+
+        <p><em>.This word is emphasized</em></p>
+        <p><i>.this is word italic</i></p>
+        <p><sup>.this is wordis superscripted</sup></p>
+        <p><sub>.this is word subscripted</sub></p>
+        <p><ins>.this is wordinserted </ins></p>
+        <p><del>this is word delted</del></p>
+    </body>
+</html>

@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>CV gioi thieu ve ban than</title>
+    </head>
+    <body>
+        <div>
+           <h1>Ho va Ten:Nguyen van A</h1>
+           <p>vi tri:Lap trinh vien Frontend</p>
+           <img crs="avatar"alt="hinh anh ca nhan">
+           <h2>thong tin ca nhan</h2>
+           <p><strong>.</strong>Email:nguyenvana@example.com</p>
+           <p><strong>.</strong>So dien thoai:0123-456-789</p>
+           <p><strong>.</strong>Dia chi: 123 Duong ABC, Quan 1,TP.Ho Chi Minh</p>
+           <h2>Ky Nang</h2>
+           <ul>
+               <li><strong>.</strong>HTML,CSS,JavaScript</li>
+               <li><strong>.</strong>ReactJS,Angular</li>
+               <li><strong>.</strong>Git,GitHub</li>
+           </ul>
+           <h2>King nghiem lam viec</h2>
+           <p><strong>.Cong ty XYZ</strong>(01/2020-Hien tai)
+            Vi tri:Lap trinh vien Frontend</p>
+           <p><strong>.Cong ty ABC</strong>(06/2018-12/2019)
+            Vi tri: Thuc tap sinh phat trien web</p>
+           <h2>Hoc van</h2>
+           <p><strong>.Dai hoc Cong Nghe Thong tin</strong></p>
+           <p>Chuyen nghanh:Khoa hoc may trinh
+            Thoi gian:2015-2019</p>
+            <p>&copy; 2024 Nguyen Van A</p>
+        </div>
+    </body>
+</html>
